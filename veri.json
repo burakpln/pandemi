@@ -1,0 +1,401 @@
+{
+    "cities": [{
+            "licence": 1,
+            "name": "Adana",
+            "color": "red"
+        },
+        {
+            "licence": 2,
+            "name": "Adıyaman",
+            "color": "red"
+        },
+        {
+            "licence": 3,
+            "name": "Afyon",
+            "color": "red"
+        },
+        {
+            "licence": 4,
+            "name": "Ağrı",
+            "color": "red"
+        },
+        {
+            "licence": 5,
+            "name": "Amasya",
+            "color": "yellow"
+        },
+        {
+            "licence": 6,
+            "name": "Ankara",
+            "color": "blue"
+        },
+        {
+            "licence": 7,
+            "name": "Antalya",
+            "color": "yellow"
+        }, {
+            "licence": 8,
+            "name": "Artvin",
+            "color": "orange"
+        },
+        {
+            "licence": 9,
+            "name": "Aydın",
+            "color": "red"
+        },
+        {
+            "licence": 10,
+            "name": "Balıkesir",
+            "color": "red"
+        },
+        {
+            "licence": 11,
+            "name": "Bilecik",
+            "color": "red"
+        },
+        {
+            "licence": 12,
+            "name": "Bingöl",
+            "color": "red"
+        },
+        {
+            "licence": 13,
+            "name": "Bitlis",
+            "color": "red"
+        },
+        {
+            "licence": 14,
+            "name": "Bolu",
+            "color": "red"
+        },
+        {
+            "licence": 15,
+            "name": "Burdur",
+            "color": "yellow"
+        },
+        {
+            "licence": 16,
+            "name": "Bursa",
+            "color": "blue"
+        },
+        {
+            "licence": 17,
+            "name": "Çanakkale",
+            "color": "yellow"
+        }, {
+            "licence": 18,
+            "name": "Çankırı",
+            "color": "orange"
+        },
+        {
+            "licence": 19,
+            "name": "Çorum",
+            "color": "red"
+        },
+        {
+            "licence": 20,
+            "name": "Denizli",
+            "color": "red"
+        },
+        {
+            "licence": 21,
+            "name": "Diyarbakır",
+            "color": "red"
+        },
+        {
+            "licence": 22,
+            "name": "Edirne",
+            "color": "red"
+        },
+        {
+            "licence": 23,
+            "name": "Elazığ",
+            "color": "red"
+        },
+        {
+            "licence": 24,
+            "name": "Erzincan",
+            "color": "red"
+        },
+        {
+            "licence": 25,
+            "name": "Erzurum",
+            "color": "yellow"
+        },
+        {
+            "licence": 26,
+            "name": "Eskişehir",
+            "color": "blue"
+        },
+        {
+            "licence": 27,
+            "name": "Gaziantep",
+            "color": "yellow"
+        }, {
+            "licence": 28,
+            "name": "Giresun",
+            "color": "orange"
+        },
+        {
+            "licence": 29,
+            "name": "Gümüşhane",
+            "color": "red"
+        },
+        {
+            "licence": 30,
+            "name": "Hakkari",
+            "color": "red"
+        },
+        {
+            "licence": 31,
+            "name": "Hatay",
+            "color": "red"
+        },
+        {
+            "licence": 32,
+            "name": "Isparta",
+            "color": "red"
+        },
+        {
+            "licence": 33,
+            "name": "Mersin",
+            "color": "red"
+        },
+        {
+            "licence": 34,
+            "name": "İstanbul",
+            "color": "red"
+        },
+        {
+            "licence": 35,
+            "name": "İzmir",
+            "color": "yellow"
+        },
+        {
+            "licence": 36,
+            "name": "Kars",
+            "color": "blue"
+        },
+        {
+            "licence": 37,
+            "name": "Kastamonu",
+            "color": "yellow"
+        }, {
+            "licence": 38,
+            "name": "Kayseri",
+            "color": "orange"
+        },
+        {
+            "licence": 39,
+            "name": "Kırklareli",
+            "color": "red"
+        },
+        {
+            "licence": 40,
+            "name": "Kırşehir",
+            "color": "red"
+        },
+        {
+            "licence": 41,
+            "name": "Kocaeli",
+            "color": "red"
+        },
+        {
+            "licence": 42,
+            "name": "Konya",
+            "color": "red"
+        },
+        {
+            "licence": 43,
+            "name": "Kütahya",
+            "color": "red"
+        },
+        {
+            "licence": 44,
+            "name": "Malatya",
+            "color": "red"
+        },
+        {
+            "licence": 45,
+            "name": "Manisa",
+            "color": "yellow"
+        },
+        {
+            "licence": 46,
+            "name": "Kahramanmaraş",
+            "color": "blue"
+        },
+        {
+            "licence": 47,
+            "name": "Mardin",
+            "color": "yellow"
+        }, {
+            "licence": 48,
+            "name": "Muğla",
+            "color": "orange"
+        },
+        {
+            "licence": 49,
+            "name": "Muş",
+            "color": "red"
+        },
+        {
+            "licence": 50,
+            "name": "Nevşehir",
+            "color": "red"
+        },
+        {
+            "licence": 51,
+            "name": "Niğde",
+            "color": "red"
+        },
+        {
+            "licence": 52,
+            "name": "Ordu",
+            "color": "red"
+        },
+        {
+            "licence": 53,
+            "name": "Rize",
+            "color": "red"
+        },
+        {
+            "licence": 54,
+            "name": "Sakarya",
+            "color": "red"
+        },
+        {
+            "licence": 55,
+            "name": "Samsun",
+            "color": "yellow"
+        },
+        {
+            "licence": 56,
+            "name": "Siirt",
+            "color": "blue"
+        },
+        {
+            "licence": 57,
+            "name": "Sinop",
+            "color": "yellow"
+        }, {
+            "licence": 58,
+            "name": "Sivas",
+            "color": "orange"
+        },
+        {
+            "licence": 59,
+            "name": "Tekirdağ",
+            "color": "red"
+        },
+        {
+            "licence": 60,
+            "name": "Tokat",
+            "color": "red"
+        },
+        {
+            "licence": 61,
+            "name": "Trabzon",
+            "color": "red"
+        },
+        {
+            "licence": 62,
+            "name": "Tunceli",
+            "color": "red"
+        },
+        {
+            "licence": 63,
+            "name": "Şanlıurfa",
+            "color": "red"
+        },
+        {
+            "licence": 64,
+            "name": "Uşak",
+            "color": "red"
+        },
+        {
+            "licence": 65,
+            "name": "Van",
+            "color": "yellow"
+        },
+        {
+            "licence": 66,
+            "name": "Yozgat",
+            "color": "blue"
+        },
+        {
+            "licence": 67,
+            "name": "Zonguldak",
+            "color": "yellow"
+        }, {
+            "licence": 68,
+            "name": "Aksaray",
+            "color": "orange"
+        },
+        {
+            "licence": 69,
+            "name": "Bayburt",
+            "color": "red"
+        },
+        {
+            "licence": 70,
+            "name": "Karaman",
+            "color": "red"
+        },
+        {
+            "licence": 71,
+            "name": "Kırıkkale",
+            "color": "red"
+        },
+        {
+            "licence": 72,
+            "name": "Batman",
+            "color": "red"
+        },
+        {
+            "licence": 73,
+            "name": "Şırnak",
+            "color": "red"
+        },
+        {
+            "licence": 74,
+            "name": "Bartın",
+            "color": "red"
+        },
+        {
+            "licence": 75,
+            "name": "Ardahan",
+            "color": "yellow"
+        },
+        {
+            "licence": 76,
+            "name": "Iğdır",
+            "color": "blue"
+        },
+        {
+            "licence": 77,
+            "name": "Yalova",
+            "color": "yellow"
+        }, {
+            "licence": 78,
+            "name": "Karabük",
+            "color": "orange"
+        },
+        {
+            "licence": 79,
+            "name": "Kilis",
+            "color": "red"
+        },
+        {
+            "licence": 80,
+            "name": "Osmaniye",
+            "color": "red"
+        },
+        {
+            "licence": 81,
+            "name": "Düzce",
+            "color": "red"
+        }
+
+    ]
+}
