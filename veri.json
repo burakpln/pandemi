@@ -2,7 +2,7 @@
     "cities": [{
             "licence": 1,
             "name": "Adana",
-            "color": "red"
+            "color": "blue"
         },
         {
             "licence": 2,
